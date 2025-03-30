@@ -1,0 +1,9 @@
+input {
+    border: 1px solid black;
+    border-radius: 999px;
+    padding: 5px;
+    margin-left: 5px;
+}
+h2 {
+    text-align: center;
+}
